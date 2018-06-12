@@ -31,6 +31,8 @@
 | 2018-03-05 |  黄坤   | [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) |    CVPR 2018 (Oral)    |               [website](http://densepose.org)                |
 | 2018-03-05 | 罗伟鑫  | [Tell Me Where to Look: Guided Attention Inference Network](https://arxiv.org/pdf/1802.10171.pdf) |       CVPR 2018        |          [arXiv](https://arxiv.org/abs/1802.10171)           |
 | 2018-03-05 | 徐衍钰  | [Spherical convolutions and their application in molecular modelling](https://papers.nips.cc/paper/6935-spherical-convolutions-and-their-application-in-molecular-modelling.pdf) |  NIPS 2017 Best Paper  | [nips](https://papers.nips.cc/paper/6935-spherical-convolutions-and-their-application-in-molecular-modelling) |
+| 2018-02-26 |    ?    | [Segmentation from Natural Language Expressions](https://arxiv.org/pdf/1603.06180.pdf) |         arXiv          |          [arXiv](https://arxiv.org/abs/1603.06180)           |
+| 2018-02-26 |    ?    | [SeGAN: Segmenting and Generating the Invisible](https://arxiv.org/pdf/1703.10239.pdf) |  CVPR 2018 Spotlight   |          [arXiv](https://arxiv.org/abs/1703.10239)           |
 
 
 
