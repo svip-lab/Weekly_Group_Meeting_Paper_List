@@ -1,5 +1,7 @@
 # Weekly Group Meeting Paper List
 
+组会顺序: 1.黄坤 2.罗伟鑫 3.廉东泽 4.刘闻 5郑佳 6 子恒 7 胡莉娜 8周康 9朴智新 
+
 |    Date    | Speaker |                            Paper                             |       Publisher       |                      Website / Code                      |
 | :--------: | :-----: | :----------------------------------------------------------: | :-------------------: | :------------------------------------------------------: |
 | 2018-06-12 |  郑佳   | [One-Shot Learning for Semantic Segmentation](https://arxiv.org/pdf/1709.03410.pdf) |       BMVC 2017       |        [code](https://github.com/lzzcd001/OSLSM)         |
