@@ -13,4 +13,6 @@
 | 2018-05-29 |  黄坤   | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) |         arXiv         |        [arXiv](https://arxiv.org/abs/1703.03400)         |
 | 2018-05-29 |    ?    |                                                              |                       |                                                          |
 | 2018-05-29 |    ?    |                                                              |                       |                                                          |
+| 2018-05-11 | 朴智新  | [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/pdf/1703.02719.pdf) ([slides](slides/Large_Kernel_Matters.pdf)) |                       |                                                          |
+| 2018-05-11 |  周康   |                                                              |                       |                                                          |
 
