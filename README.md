@@ -25,7 +25,7 @@
 | 2018-03-30 |  周康   | [Referring Relationships](https://arxiv.org/pdf/1803.10362.pdf) |       CVPR 2018        |          [arXiv](https://arxiv.org/abs/1803.10362)           |
 | 2018-03-30 | 胡莉娜  | [Learning Region Features for Object Detection](https://arxiv.org/pdf/1803.07066.pdf) |         arXiv          |          [arXiv](https://arxiv.org/abs/1803.07066)           |
 | 2018-03-23 |  郑佳   | [Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation](https://arxiv.org/pdf/1803.04242.pdf) |         arXiv          |          [arXiv](https://arxiv.org/abs/1803.04242)           |
-| 2018-03-23 | 张子恒  | [Generative Adversarial Networks: An Overview](https://arxiv.org/pdf/1710.07035.pdf) |        IEEE SPM        |          [arXiv](https://arxiv.org/abs/1710.07035)           |
+| 2018-03-23 | 张子恒  | [Generative Adversarial Networks: An Overview](https://arxiv.org/pdf/1710.07035.pdf) |       IEEE SPM*        |          [arXiv](https://arxiv.org/abs/1710.07035)           |
 | 2018-03-23 |  刘闻   | [Positive-Unlabeled Learning with Non-Negative Risk Estimator](https://arxiv.org/pdf/1703.00593.pdf) |       NIPS 2017        |        [code](https://github.com/kiryor/nnPUlearning)        |
 | 2018-03-12 |    ?    |                                                              |                        |                                                              |
 | 2018-03-05 |  黄坤   | [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) |    CVPR 2018 (Oral)    |               [website](http://densepose.org)                |
