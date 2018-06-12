@@ -21,4 +21,7 @@
 | 2018-04-27 | 廉东泽  | [Deep Cross-media Knowledge Transfer](https://arxiv.org/pdf/1803.03777.pdf) |       CVPR 2018        |          [arXiv](https://arxiv.org/abs/1803.03777)           |
 | 2018-04-13 |  黄坤   | [The Sound of Pixels](https://arxiv.org/pdf/1804.03160.pdf)  |         arXiv          |       [website](http://sound-of-pixels.csail.mit.edu)        |
 | 2018-04-13 | 罗伟鑫  | [Group Normalization](https://arxiv.org/pdf/1803.08494.pdf)  |         arXiv          | [code](https://github.com/facebookresearch/Detectron/tree/master/projects/GN) |
+| 2018-03-30 | 朴智新  | An Overview of Segmentation ([slides](/slides/Segmentation_1.pdf)) |           NA           |                              NA                              |
+| 2018-03-30 |  周康   | [Referring Relationships](https://arxiv.org/pdf/1803.10362.pdf) |       CVPR 2018        |          [arXiv](https://arxiv.org/abs/1803.10362)           |
+| 2018-03-30 | 胡莉娜  | [Learning Region Features for Object Detection](https://arxiv.org/pdf/1803.07066.pdf) |         arXiv          |          [arXiv](https://arxiv.org/abs/1803.07066)           |
 
