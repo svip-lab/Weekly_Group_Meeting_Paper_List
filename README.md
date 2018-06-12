@@ -15,7 +15,7 @@
 | 2018-05-29 |    ?    |                                                              |                        |                                                              |
 | 2018-05-11 | 朴智新  | [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/pdf/1703.02719.pdf) ([slides](slides/Large_Kernel_Matters.pdf)) |       CVPR 2017        |          [arXiv](https://arxiv.org/abs/1703.02719)           |
 | 2018-05-11 |  周康   | [Provable Self-Representation Based Outlier Detection in a Union of Subspaces](https://arxiv.org/pdf/1704.03925.pdf) |       CVPR 2017        |          [arXiv](https://arxiv.org/abs/1704.03925)           |
-| 2018-05-04 |  刘闻   | [Discriminative Learning of Latent Features for Zero-Shot Recognition](https://arxiv.org/pdf/1803.06731.pdf) |    CVPR 2018(Oral)     |          [arXiv](https://arxiv.org/abs/1803.06731)           |
+| 2018-05-04 |  刘闻   | [Discriminative Learning of Latent Features for Zero-Shot Recognition](https://arxiv.org/pdf/1803.06731.pdf) |    CVPR 2018 (Oral)    |          [arXiv](https://arxiv.org/abs/1803.06731)           |
 | 2018-05-04 | 胡莉娜  |               recent-progress-object-detection               |           NA           |                              NA                              |
 | 2018-04-27 | 董艳兵  | [Deep Painterly Harmonization](https://arxiv.org/pdf/1804.03189.pdf) |         arXiv          |          [arXiv](https://arxiv.org/abs/1804.03189)           |
 | 2018-04-27 | 廉东泽  | [Deep Cross-media Knowledge Transfer](https://arxiv.org/pdf/1803.03777.pdf) |       CVPR 2018        |          [arXiv](https://arxiv.org/abs/1803.03777)           |
