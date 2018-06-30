@@ -4,7 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
-| 2018-06-30 | 朴智新  | [Learning Deep Models for Face Anti-Spooﬁng: Binary or Auxiliary Supervision](https://arxiv.org/pdf/1803.11097.pdf) ([slides](slides/Learning Deep Models for Face Anti-Spooﬁng.pptx)) |       CVPR 2018        |                              NA                              |
+| 2018-06-30 | 朴智新  | [Learning Deep Models for Face Anti-Spooﬁng: Binary or Auxiliary Supervision](https://arxiv.org/pdf/1803.11097.pdf) ([slides](slides/Learning_Deep_Models_for_Face_Anti-Spooﬁng.pptx)) |       CVPR 2018        |                              NA                              |
 | 2018-06-30 |  刘闻   | [Deep Video Portraits](https://arxiv.org/pdf/1805.11714.pdf) ([slides](slides/deep_video_portraits.pptx)) |      SIGGRAPH2018      |                              NA                              |
 | 2018-06-30 |  黄坤   | [Pixels, voxels, and views: A study of shape representations for single view 3D object shape prediction](https://arxiv.org/pdf/1804.06032.pdf) |       CVPR 2018        | [website](http://www.ics.uci.edu/~daeyuns/pixels-voxels-views/) |
 | 2018-06-30 | 罗伟鑫  | [Detect-and-Track: Efficient Pose Estimation in Videos](https://arxiv.org/pdf/1712.09184.pdf) |       CVPR 2018        |  [code](https://github.com/facebookresearch/DetectAndTrack)  |
