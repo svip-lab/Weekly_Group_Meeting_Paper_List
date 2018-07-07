@@ -4,6 +4,9 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2018-07-06 | 朴智新  | [Coherent Online Video Style Transfer](https://arxiv.org/pdf/1703.09211.pdf) ([slides](slides/Coherent_Online_Video_Style_Transfer.pptx)) |       ICCV 2017        |          [arXiv](https://arxiv.org/abs/1703.09211)           |
+| 2018-07-06 |  刘闻   | [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) |       CVPR 2018        |         [website](https://akanazawa.github.io/hmr/)          |
+| 2018-07-06 |  黄坤   | [Learning Category-Specific Mesh Reconstruction  from Image Collections](https://arxiv.org/pdf/1803.07549.pdf) |       ECCV 2018        |         [website](https://akanazawa.github.io/cmr/)          |
 | 2018-06-30 | 朴智新  | [Learning Deep Models for Face Anti-Spooﬁng: Binary or Auxiliary Supervision](https://arxiv.org/pdf/1803.11097.pdf) ([slides](slides/Learning_Deep_Models_for_Face_Anti-Spooﬁng.pptx)) |       CVPR 2018        |                              NA                              |
 | 2018-06-30 |  刘闻   | [Deep Video Portraits](https://arxiv.org/pdf/1805.11714.pdf) ([slides](slides/deep_video_portraits.pptx)) |      SIGGRAPH2018      |                              NA                              |
 | 2018-06-30 |  黄坤   | [Pixels, voxels, and views: A study of shape representations for single view 3D object shape prediction](https://arxiv.org/pdf/1804.06032.pdf) |       CVPR 2018        | [website](http://www.ics.uci.edu/~daeyuns/pixels-voxels-views/) |
