@@ -4,6 +4,8 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2018-07-13 | 廉东泽  | [An intriguing failing of convolutional neural networks and the CoordConv solution](https://arxiv.org/pdf/1807.03247) |       ECCV 2018        |          [website](https://eng.uber.com/coordconv/)          |
+| 2018-07-13 | 罗伟鑫  | [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/pdf/1805.00932.pdf) |       ECCV 2018        |          [arXiv](https://arxiv.org/abs/1805.00932)           |
 | 2018-07-06 | 朴智新  | [Coherent Online Video Style Transfer](https://arxiv.org/pdf/1703.09211.pdf) ([slides](slides/Coherent_Online_Video_Style_Transfer.pptx)) |       ICCV 2017        |          [arXiv](https://arxiv.org/abs/1703.09211)           |
 | 2018-07-06 |  刘闻   | [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf) |       CVPR 2018        |         [website](https://akanazawa.github.io/hmr/)          |
 | 2018-07-06 |  黄坤   | [Learning Category-Specific Mesh Reconstruction  from Image Collections](https://arxiv.org/pdf/1803.07549.pdf) |       ECCV 2018        |         [website](https://akanazawa.github.io/cmr/)          |
