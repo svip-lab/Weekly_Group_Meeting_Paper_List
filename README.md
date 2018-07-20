@@ -4,6 +4,8 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2018-07-19 |  郑佳   | [Few-Shot Segmentation Propagation with Guided Networks](https://arxiv.org/pdf/1806.07373) | Submitted to NIPS 2018 |        [code](https://github.com/shelhamer/revolver)         |
+| 2018-07-19 |  黄坤   | [Pointwise Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hua_Pointwise_Convolutional_Neural_CVPR_2018_paper.pdf) |       CVPR 2018        |   [website](http://103.24.77.34:8080/scenenn/home/cvpr18/)   |
 | 2018-07-13 | 廉东泽  | [An intriguing failing of convolutional neural networks and the CoordConv solution](https://arxiv.org/pdf/1807.03247) |       ECCV 2018        |          [website](https://eng.uber.com/coordconv/)          |
 | 2018-07-13 | 罗伟鑫  | [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/pdf/1805.00932.pdf) |       ECCV 2018        |          [arXiv](https://arxiv.org/abs/1805.00932)           |
 | 2018-07-06 | 朴智新  | [Coherent Online Video Style Transfer](https://arxiv.org/pdf/1703.09211.pdf) ([slides](slides/Coherent_Online_Video_Style_Transfer.pptx)) |       ICCV 2017        |          [arXiv](https://arxiv.org/abs/1703.09211)           |
