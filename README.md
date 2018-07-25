@@ -4,9 +4,9 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
-| 2018-07-25 | 胡俊豪  | [DetNet: A Backbone network for Object Detection](https://arxiv.org/pdf/1804.06215) ([slides](slides/detnet.pptx)) | Submitted to ECCV 2018 |          [arXiv](https://arxiv.org/abs/1804.06215)           |
+| 2018-07-25 | 胡俊豪  | [DetNet: A Backbone network for Object Detection](https://arxiv.org/pdf/1804.06215) ([slides](slides/detnet.pptx)) |       ECCV 2018        |          [arXiv](https://arxiv.org/abs/1804.06215)           |
 | 2018-07-25 | 胡俊豪  | [Exploring Multi-Branch and High-Level Semantic Networks for Improving Pedestrian Detection](https://arxiv.org/pdf/1804.00872) |         arXiv          |          [arXiv](https://arxiv.org/abs/1804.00872)           |
-| 2018-07-25 |  李晶   | [ExFuse: Enhancing Feature Fusion for Semantic Segmentation](https://arxiv.org/pdf/1804.03821) | Submitted to ECCV 2018 |          [arXiv](https://arxiv.org/abs/1804.03821)           |
+| 2018-07-25 |  李晶   | [ExFuse: Enhancing Feature Fusion for Semantic Segmentation](https://arxiv.org/pdf/1804.03821) |       ECCV 2018        |          [arXiv](https://arxiv.org/abs/1804.03821)           |
 | 2018-07-25 |  刘闻   | [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf) |       CVPR 2018        | [website](https://richzhang.github.io/PerceptualSimilarity/) |
 | 2018-07-25 | 廉东泽  | [The Perception-Distortion Tradeoff](http://openaccess.thecvf.com/content_cvpr_2018/papers/Blau_The_Perception-Distortion_Tradeoff_CVPR_2018_paper.pdf) |     CVPR 2018 Oral     |          [arXiv](https://arxiv.org/abs/1711.06077)           |
 | 2018-07-19 |  郑佳   | [Few-Shot Segmentation Propagation with Guided Networks](https://arxiv.org/pdf/1806.07373) | Submitted to NIPS 2018 |        [code](https://github.com/shelhamer/revolver)         |
