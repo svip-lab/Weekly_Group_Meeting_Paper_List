@@ -4,6 +4,8 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2018-08-19 |  郑佳   | [Piece-wise Planar Reconstruction from a Single RGB Image](https://arxiv.org/pdf/1804.06278) ([slides](slides/PlaneNet.pdf)) |       CVPR 2018        |   [website](http://art-programmer.github.io/planenet.html)   |
+| 2018-08-19 | 廉东泽  | [Boosting Self-Supervised Learning via Knowledge Transfer](https://arxiv.org/pdf/1805.00385) |       CVPR 2018        |          [arXiv](https://arxiv.org/abs/1805.00385)           |
 | 2018-07-25 | 胡俊豪  | [DetNet: A Backbone network for Object Detection](https://arxiv.org/pdf/1804.06215) ([slides](slides/detnet.pptx)) |       ECCV 2018        |          [arXiv](https://arxiv.org/abs/1804.06215)           |
 | 2018-07-25 | 胡俊豪  | [Exploring Multi-Branch and High-Level Semantic Networks for Improving Pedestrian Detection](https://arxiv.org/pdf/1804.00872) |         arXiv          |          [arXiv](https://arxiv.org/abs/1804.00872)           |
 | 2018-07-25 |  李晶   | [ExFuse: Enhancing Feature Fusion for Semantic Segmentation](https://arxiv.org/pdf/1804.03821) |       ECCV 2018        |          [arXiv](https://arxiv.org/abs/1804.03821)           |
