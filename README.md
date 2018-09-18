@@ -4,6 +4,8 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2018-09-18 |  郑佳   |      [ECCV 2018 Summary](slides/zhengjia_ECCV2018.pptx)      |       ECCV 2018        | [website](https://svip-lab.github.io/activity/eccv2018/eccv2018.html) |
+| 2018-09-18 | 廉东泽  |       [ECCV 2018 Summary](slides/liandz_ECCV2018.pptx)       |       ECCV 2018        | [website](https://svip-lab.github.io/activity/eccv2018/eccv2018.html) |
 | 2018-09-01 | 余泽浩  | [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/pdf/1803.02276.pdf) |       CVPR 2018        |          [github](https://github.com/yzcjtr/GeoNet)          |
 | 2018-09-01 | 余泽浩  | [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.pdf) |       CVPR 2018        |                                                              |
 | 2018-09-01 | 余泽浩  | [Unsupervised Learning of Depth and Ego-Motion from Video](https://arxiv.org/pdf/1704.07813.pdf) |       CVPR 2017        |                                                              |
