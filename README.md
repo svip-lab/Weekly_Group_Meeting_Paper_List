@@ -1,9 +1,16 @@
 # Weekly Group Meeting Paper List
 
-组会顺序: 1.黄坤 2.罗伟鑫 3.廉东泽 4.刘闻 5郑佳 6 子恒 7 胡莉娜 8周康 9朴智新 
+组会顺序: 1.黄坤 2.罗伟鑫 3.廉东泽 4.刘闻 5郑佳 6 子恒 7 胡莉娜 8周康 9朴智新  
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2018-10-11 | 余泽浩  | [Pixels to Graphs by Associative Embedding](https://arxiv.org/pdf/1706.07365.pdf) |       NIPS 2017        |      [github](https://github.com/princeton-vl/px2graph)      |
+| 2018-10-11 | 胡俊豪  | [Physical Primitive Decomposition](http://ppd.csail.mit.edu/papers/ppd_eccv.pdf) |       ECCV 2018        |             [website](http://ppd.csail.mit.edu/)             |
+| 2018-10-11 |  李晶   | [DIFFERENTIABLE LEARNING-TO-NORMALIZE VIA SWITCHABLE NORMALIZATION](https://arxiv.org/pdf/1806.10779.pdf) |       arXiv 2018       | [github](https://github.com/switchablenorms/Switchable-Normalization) |
+| 2018-10-04 | 朴智新  | [Deep Learning Hardware](slides/Deep_Learning_Hardware.pdf)  |        Original        |                                                              |
+| 2018-10-04 | 胡莉娜  |         [Part Detection](slides/part_detection.pdf)          |        Original        |                                                              |
+| 2018-10-04 | 徐衍钰  |       [Human Pose Survey](slides/HumanPoseSurvey.pdf)        |        Original        |                                                              |
+| 2018-09-27 | 张子恒  | [Stereo relative pose from line and point feature triplets](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alexander_Vakhitov_Stereo_relative_pose_ECCV_2018_paper.pdf) |       ECCV 2018        |                                                              |
 | 2018-09-18 |  郑佳   |      [ECCV 2018 Summary](slides/zhengjia_ECCV2018.pptx)      |       ECCV 2018        | [website](https://svip-lab.github.io/activity/eccv2018/eccv2018.html) |
 | 2018-09-18 | 廉东泽  |       [ECCV 2018 Summary](slides/liandz_ECCV2018.pptx)       |       ECCV 2018        | [website](https://svip-lab.github.io/activity/eccv2018/eccv2018.html) |
 | 2018-09-01 | 余泽浩  | [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/pdf/1803.02276.pdf) |       CVPR 2018        |          [github](https://github.com/yzcjtr/GeoNet)          |
