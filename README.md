@@ -7,16 +7,16 @@
 | 2019-01-02 | 胡俊豪  | [Grid R-CNN](https://arxiv.org/pdf/1811.12030.pdf) |         |         |
 | 2019-01-02 | 肖宇廷  | [Learning to Sketch with Shortcut Cycle Consistency](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Learning_to_Sketch_CVPR_2018_paper.pdf) |       CVPR 2018        |     |
 | 2019-01-02 | 胡莉娜  | [Human Parsing: An Overview](slides/Deep_Learning_Hardware.pdf)  |        Original        |                                                              |
-| 2019-12-15 |   郑佳  | [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://arxiv.org/abs/1812.04072) [slides](slides/PlaneRCNN.pdf)  |        arXiv 2018       |                                                              |
+| 2019-12-15 |   郑佳  | [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://arxiv.org/abs/1812.04072) ([slides](slides/PlaneRCNN.pdf))  |        arXiv 2018       |                                                              |
 | 2018-10-11 | 余泽浩  | [Pixels to Graphs by Associative Embedding](https://arxiv.org/pdf/1706.07365.pdf) |       NIPS 2017        |      [github](https://github.com/princeton-vl/px2graph)      |
 | 2018-10-11 | 胡俊豪  | [Physical Primitive Decomposition](http://ppd.csail.mit.edu/papers/ppd_eccv.pdf) |       ECCV 2018        |             [website](http://ppd.csail.mit.edu/)             |
 | 2018-10-11 |  李晶   | [DIFFERENTIABLE LEARNING-TO-NORMALIZE VIA SWITCHABLE NORMALIZATION](https://arxiv.org/pdf/1806.10779.pdf) |       arXiv 2018       | [github](https://github.com/switchablenorms/Switchable-Normalization) |
 | 2018-10-04 | 朴智新  | [Deep Learning Hardware](slides/Deep_Learning_Hardware.pdf)  |        Original        |                                                              |
-| 2018-10-04 | 胡莉娜  |         [Part Detection](slides/part_detection.pdf)          |        Original        |                                                              |
-| 2018-10-04 | 徐衍钰  |       [Human Pose Survey](slides/HumanPoseSurvey.pdf)        |        Original        |                                                              |
+| 2018-10-04 | 胡莉娜  | [Part Detection](slides/part_detection.pdf)          |        Original        |                                                              |
+| 2018-10-04 | 徐衍钰  | [Human Pose Survey](slides/HumanPoseSurvey.pdf)        |        Original        |                                                              |
 | 2018-09-27 | 张子恒  | [Stereo relative pose from line and point feature triplets](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alexander_Vakhitov_Stereo_relative_pose_ECCV_2018_paper.pdf) |       ECCV 2018        |                                                              |
-| 2018-09-18 |  郑佳   |      [ECCV 2018 Summary](slides/zhengjia_ECCV2018.pptx)      |       ECCV 2018        | [website](https://svip-lab.github.io/activity/eccv2018/eccv2018.html) |
-| 2018-09-18 | 廉东泽  |       [ECCV 2018 Summary](slides/liandz_ECCV2018.pptx)       |       ECCV 2018        | [website](https://svip-lab.github.io/activity/eccv2018/eccv2018.html) |
+| 2018-09-18 |  郑佳   | [ECCV 2018 Summary](slides/zhengjia_ECCV2018.pptx)      |       ECCV 2018        | [website](https://svip-lab.github.io/activity/eccv2018/eccv2018.html) |
+| 2018-09-18 | 廉东泽  | [ECCV 2018 Summary](slides/liandz_ECCV2018.pptx)       |       ECCV 2018        | [website](https://svip-lab.github.io/activity/eccv2018/eccv2018.html) |
 | 2018-09-01 | 余泽浩  | [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/pdf/1803.02276.pdf) |       CVPR 2018        |          [github](https://github.com/yzcjtr/GeoNet)          |
 | 2018-09-01 | 余泽浩  | [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.pdf) |       CVPR 2018        |                                                              |
 | 2018-09-01 | 余泽浩  | [Unsupervised Learning of Depth and Ego-Motion from Video](https://arxiv.org/pdf/1704.07813.pdf) |       CVPR 2017        |                                                              |
@@ -48,10 +48,7 @@
 | 2018-06-05 |    ?    | [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf) |         arXiv          |          [arXiv](https://arxiv.org/abs/1606.04080)           |
 | 2018-06-05 |    ?    | [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf) |         arXiv          |          [arXiv](https://arxiv.org/abs/1803.02999)           |
 | 2018-06-02 |  黄坤   | [BDD100K: A Large-scale Diverse Driving Video Database](https://arxiv.org/pdf/1805.04687.pdf) | Submitted to ECCV 2018 |   [website](http://bair.berkeley.edu/blog/2018/05/30/bdd/)   |
-| 2018-06-02 |    ?    |                                                              |                        |                                                              |
 | 2018-05-29 |  黄坤   | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) |         arXiv          |          [arXiv](https://arxiv.org/abs/1703.03400)           |
-| 2018-05-29 |    ?    |                                                              |                        |                                                              |
-| 2018-05-29 |    ?    |                                                              |                        |                                                              |
 | 2018-05-23 |  郑佳   | [Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation](https://arxiv.org/pdf/1803.04242) ([slides](slides/DyeNet.pdf)) |         arXiv          |          [arXiv](https://arxiv.org/abs/1803.04242)           |
 | 2018-05-11 | 朴智新  | [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/pdf/1703.02719.pdf) ([slides](slides/Large_Kernel_Matters.pdf)) |       CVPR 2017        |          [arXiv](https://arxiv.org/abs/1703.02719)           |
 | 2018-05-11 |  周康   | [Provable Self-Representation Based Outlier Detection in a Union of Subspaces](https://arxiv.org/pdf/1704.03925.pdf) |       CVPR 2017        |          [arXiv](https://arxiv.org/abs/1704.03925)           |
@@ -67,7 +64,6 @@
 | 2018-03-23 |  郑佳   | [Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation](https://arxiv.org/pdf/1803.04242.pdf) |         arXiv          |          [arXiv](https://arxiv.org/abs/1803.04242)           |
 | 2018-03-23 | 张子恒  | [Generative Adversarial Networks: An Overview](https://arxiv.org/pdf/1710.07035.pdf) |       IEEE SPM*        |          [arXiv](https://arxiv.org/abs/1710.07035)           |
 | 2018-03-23 |  刘闻   | [Positive-Unlabeled Learning with Non-Negative Risk Estimator](https://arxiv.org/pdf/1703.00593.pdf) |       NIPS 2017        |        [code](https://github.com/kiryor/nnPUlearning)        |
-| 2018-03-12 |    ?    |                                                              |                        |                                                              |
 | 2018-03-05 |  黄坤   | [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) |    CVPR 2018 (Oral)    |               [website](http://densepose.org)                |
 | 2018-03-05 | 罗伟鑫  | [Tell Me Where to Look: Guided Attention Inference Network](https://arxiv.org/pdf/1802.10171.pdf) |       CVPR 2018        |          [arXiv](https://arxiv.org/abs/1802.10171)           |
 | 2018-03-05 | 徐衍钰  | [Spherical convolutions and their application in molecular modelling](https://papers.nips.cc/paper/6935-spherical-convolutions-and-their-application-in-molecular-modelling.pdf) |  NIPS 2017 Best Paper  | [nips](https://papers.nips.cc/paper/6935-spherical-convolutions-and-their-application-in-molecular-modelling) |
