@@ -4,7 +4,11 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
-| 2019-01-02 | 胡俊豪  | [Grid R-CNN](https://arxiv.org/pdf/1811.12030.pdf) |         |         |
+| 2019-01-09 | 郑佳  | [FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans](https://arxiv.org/pdf/1804.00090.pdf) |       arXiv 2018        |    |
+| 2019-01-09 | 郑佳  | [Raster-to-Vector: Revisiting Floorplan Transformation](http://art-programmer.github.io/floorplan-transformation/paper.pdf) |       ICCV 2017        |    |
+| 2019-01-09 | 余泽浩  | [MVSNet: Depth Inference for Unstructured Multi-view Stereo](https://arxiv.org/pdf/1804.02505.pdf) |       ECCV 2018        |    |
+| 2018-01-09 | 余泽浩  | [Unsupervised Learning of Stereo Matching](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Unsupervised_Learning_of_ICCV_2017_paper.pdf) |       ICCV 2017        |   |
+| 2019-01-02 | 胡俊豪  | [Grid R-CNN](https://arxiv.org/pdf/1811.12030.pdf) |    arXiv 2018    |         |
 | 2019-01-02 | 肖宇廷  | [Learning to Sketch with Shortcut Cycle Consistency](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Learning_to_Sketch_CVPR_2018_paper.pdf) |       CVPR 2018        |     |
 | 2019-01-02 | 胡莉娜  | [Human Parsing: An Overview](slides/Deep_Learning_Hardware.pdf)  |        Original        |                                                              |
 | 2019-12-15 |   郑佳  | [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://arxiv.org/abs/1812.04072) ([slides](slides/PlaneRCNN.pdf))  |        arXiv 2018       |                                                              |
