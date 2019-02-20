@@ -4,7 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
-| 2019-01-09 | 郑佳  | [Geometry-aware Deep Network for Single-Image Novel View Synthesis](https://xmhe.bitbucket.io/papers/viewSynthesis.pdf) |       CVPR 2018        |  |
+| 2019-02-20 | 郑佳  | [Geometry-aware Deep Network for Single-Image Novel View Synthesis](https://xmhe.bitbucket.io/papers/viewSynthesis.pdf) |       CVPR 2018        |  |
 | 2019-01-09 | 郑佳  | [FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans](https://arxiv.org/pdf/1804.00090.pdf) |       ECCV 2018        | [website](http://art-programmer.github.io/floornet.html)   |
 | 2019-01-09 | 郑佳  | [Raster-to-Vector: Revisiting Floorplan Transformation](http://art-programmer.github.io/floorplan-transformation/paper.pdf) |       ICCV 2017        | [website](http://art-programmer.github.io/floorplan-transformation.html)   |
 | 2019-01-09 | 余泽浩  | [MVSNet: Depth Inference for Unstructured Multi-view Stereo](https://arxiv.org/pdf/1804.02505.pdf) |       ECCV 2018        |    |
