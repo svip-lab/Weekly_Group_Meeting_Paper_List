@@ -16,7 +16,7 @@
 | 2018-01-09 | 余泽浩  | [Unsupervised Learning of Stereo Matching](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Unsupervised_Learning_of_ICCV_2017_paper.pdf) |       ICCV 2017        |   |
 | 2019-01-02 | 胡俊豪  | [Grid R-CNN](https://arxiv.org/pdf/1811.12030.pdf) |    arXiv 2018    |         |
 | 2019-01-02 | 肖宇廷  | [Learning to Sketch with Shortcut Cycle Consistency](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Learning_to_Sketch_CVPR_2018_paper.pdf) |       CVPR 2018        |     |
-| 2019-01-02 | 胡莉娜  | [Human Parsing: An Overview](slides/Deep_Learning_Hardware.pdf)  |        Original        |                                                              |
+| 2019-01-02 | 胡莉娜  | [Human Parsing: An Overview](slides/HumanParsing_Overview.pdf)  |        Original        |                                                              |
 | 2019-12-15 |   郑佳  | [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://arxiv.org/abs/1812.04072) ([slides](slides/PlaneRCNN.pdf))  |        arXiv 2018       |                                                              |
 | 2018-10-11 | 余泽浩  | [Pixels to Graphs by Associative Embedding](https://arxiv.org/pdf/1706.07365.pdf) |       NIPS 2017        |      [github](https://github.com/princeton-vl/px2graph)      |
 | 2018-10-11 | 胡俊豪  | [Physical Primitive Decomposition](http://ppd.csail.mit.edu/papers/ppd_eccv.pdf) |       ECCV 2018        |             [website](http://ppd.csail.mit.edu/)             |
