@@ -9,6 +9,7 @@
 | 2019-04-27 | 郑佳 | [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://arxiv.org/abs/1901.11461) | arXiv 2019 | [code](https://github.com/EdwardSmith1884/GEOMetrics) |
 | 2019-03-13 | 余泽浩   | [Stereo Magnification: Learning view synthesis using multiplane images](http://people.eecs.berkeley.edu/~tinghuiz/papers/siggraph18_mpi.pdf) |       SigGraph 2018        |  [website](https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/)  |
 | 2019-02-20 | 郑佳  | [Geometry-aware Deep Network for Single-Image Novel View Synthesis](https://xmhe.bitbucket.io/papers/viewSynthesis.pdf) |       CVPR 2018        |  |
+| 2019-01-23 | 胡莉娜  | [DeformableV2](slides/CNN_Visualization.pdf)  |        Original        | 
 | 2019-01-19 | 胡莉娜  | [DeformableV2](slides/DeformableV2.pdf)  |        Original        |      
 | 2019-01-09 | 郑佳  | [FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans](https://arxiv.org/pdf/1804.00090.pdf) |       ECCV 2018        | [website](http://art-programmer.github.io/floornet.html)   |
 | 2019-01-09 | 郑佳  | [Raster-to-Vector: Revisiting Floorplan Transformation](http://art-programmer.github.io/floorplan-transformation/paper.pdf) |       ICCV 2017        | [website](http://art-programmer.github.io/floorplan-transformation.html)   |
