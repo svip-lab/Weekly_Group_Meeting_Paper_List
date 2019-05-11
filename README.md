@@ -4,9 +4,11 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2019-05-11 | 尹兆远 | [BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames](https://arxiv.org/abs/1903.11779) | CVPR 2019 | [code](https://github.com/griffbr/BubbleNets) |
 | 2019-05-04 | 黄坤 | [DPSNet: End-to-end Deep Plane Sweep Stereo](https://openreview.net/forum?id=ryeYHi0ctQ) | ICLR 2019 | [github](https://github.com/sunghoonim/DPSNet) |
 | 2019-05-04 | 李晶 | [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf) | CVPR 2019 (Oral) |  |
 | 2019-04-27 | 郑佳 | [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://arxiv.org/abs/1901.11461) | ICML 2019 | [code](https://github.com/EdwardSmith1884/GEOMetrics) |
+| 2019-03-13 | 尹兆远 | [SeedNet: Automatic Seed Generation with Deep Reinforcement Learning for Robust Interactive Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/html/Song_SeedNet_Automatic_Seed_CVPR_2018_paper.html) | CVPR 2018 |   |
 | 2019-03-13 | 余泽浩   | [Stereo Magnification: Learning view synthesis using multiplane images](http://people.eecs.berkeley.edu/~tinghuiz/papers/siggraph18_mpi.pdf) |       SigGraph 2018        |  [website](https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/)  |
 | 2019-02-20 | 郑佳  | [Geometry-aware Deep Network for Single-Image Novel View Synthesis](https://xmhe.bitbucket.io/papers/viewSynthesis.pdf) |       CVPR 2018        |  |
 | 2019-01-23 | 胡莉娜  | [CNN Visualization](slides/CNN_Visualization.pdf)  |        Original        | 
@@ -82,6 +84,7 @@
 | 2018-02-26 |    ?    | [SeGAN: Segmenting and Generating the Invisible](https://arxiv.org/pdf/1703.10239.pdf) |  CVPR 2018 Spotlight   |          [arXiv](https://arxiv.org/abs/1703.10239)           |
 | 2018-01-29 |  郑佳   | [Online Deep Learning: Learning Deep Neural Networks on the Fly](https://arxiv.org/pdf/1711.03705) ([slides](slides/Online_Deep_Learning_Learning_Deep_Neural_Networks_on_the_Fly.pdf)) |         arXiv          |          [arXiv](https://arxiv.org/abs/1711.03705)           |
 | 2018-01-27 |  郑佳   | A brief Overview of Video Object Segmentation ([slides](slides/A_brief_Overview_of_Video_Object_Segmentation.pdf)) |        Original        |                              NA                              |
+
 
 
 
