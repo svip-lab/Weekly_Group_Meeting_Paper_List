@@ -6,7 +6,7 @@
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
 | 2019-05-04 | 黄坤 | [DPSNet: End-to-end Deep Plane Sweep Stereo](https://openreview.net/forum?id=ryeYHi0ctQ) | ICLR 2019 | [github](https://github.com/sunghoonim/DPSNet) |
 | 2019-05-04 | 李晶 | [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf) | CVPR 2019 (Oral) |  |
-| 2019-04-27 | 郑佳 | [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://arxiv.org/abs/1901.11461) | arXiv 2019 | [code](https://github.com/EdwardSmith1884/GEOMetrics) |
+| 2019-04-27 | 郑佳 | [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://arxiv.org/abs/1901.11461) | ICML 2019 | [code](https://github.com/EdwardSmith1884/GEOMetrics) |
 | 2019-03-13 | 余泽浩   | [Stereo Magnification: Learning view synthesis using multiplane images](http://people.eecs.berkeley.edu/~tinghuiz/papers/siggraph18_mpi.pdf) |       SigGraph 2018        |  [website](https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/)  |
 | 2019-02-20 | 郑佳  | [Geometry-aware Deep Network for Single-Image Novel View Synthesis](https://xmhe.bitbucket.io/papers/viewSynthesis.pdf) |       CVPR 2018        |  |
 | 2019-01-23 | 胡莉娜  | [CNN Visualization](slides/CNN_Visualization.pdf)  |        Original        | 
