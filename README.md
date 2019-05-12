@@ -4,6 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2019-05-11 | 肖宇廷 | [C2AE: Class Conditioned Auto-Encoder for Open-set Recognition](https://arxiv.org/abs/1904.01198) | CVPR 2019 |  |
 | 2019-05-11 | 尹兆远 | [BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames](https://arxiv.org/abs/1903.11779) | CVPR 2019 | [code](https://github.com/griffbr/BubbleNets) |
 | 2019-05-04 | 黄坤 | [DPSNet: End-to-end Deep Plane Sweep Stereo](https://openreview.net/forum?id=ryeYHi0ctQ) | ICLR 2019 | [github](https://github.com/sunghoonim/DPSNet) |
 | 2019-05-04 | 李晶 | [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf) | CVPR 2019 (Oral) |  |
