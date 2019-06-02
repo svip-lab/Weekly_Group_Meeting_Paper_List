@@ -4,6 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2019-06-01 | 金磊 | [RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741) | CVPR 2019 |  |
 | 2019-06-01 | 余泽浩 | [Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency](https://arxiv.org/pdf/1905.02706v1.pdf) | Arxiv |  |
 | 2019-05-11 | 胡俊豪 | [NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection](https://arxiv.org/abs/1904.07392) | CVPR 2019 |  |
 | 2019-05-11 | 肖宇廷 | [C2AE: Class Conditioned Auto-Encoder for Open-set Recognition](https://arxiv.org/abs/1904.01198) | CVPR 2019 |  |
