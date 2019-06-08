@@ -4,7 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
-| 2019-06-08 | 郑佳 | [Supervised Fitting of Geometric Primitives to 3D Point Clouds](https://arxiv.org/abs/1811.08988)| CVPR 2019 (oral)  |
+| 2019-06-08 | 郑佳 | [Supervised Fitting of Geometric Primitives to 3D Point Clouds](https://arxiv.org/abs/1811.08988)| CVPR 2019 (oral)  | [Code](https://github.com/csimstu2/SPFN)
 | 2019-06-01 | 罗伟鑫 | TODO | ICCV 2019 Submission|  |
 | 2019-06-01 | 金磊 | [RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741) | CVPR 2019 |  |
 | 2019-06-01 | 余泽浩 | [Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency](https://arxiv.org/pdf/1905.02706v1.pdf) | Arxiv |  |
