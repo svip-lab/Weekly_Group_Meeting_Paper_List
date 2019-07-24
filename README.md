@@ -4,6 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2019-07-20 | 李晶 | [Locating Objects Without Bounding Boxes](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ribera_Locating_Objects_Without_Bounding_Boxes_CVPR_2019_paper.pdf)| CVPR 2019 |
 | 2019-07-20 | 余泽浩 | [DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_DeepMapping_Unsupervised_Map_Estimation_From_Multiple_Point_Clouds_CVPR_2019_paper.pdf)| CVPR 2019 |
 | 2019-07-06 | 罗伟鑫 | [Semantic Component Decomposition for Face Attribute Manipulation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Semantic_Component_Decomposition_for_Face_Attribute_Manipulation_CVPR_2019_paper.pdf)| CVPR 2019 |
 | 2019-06-08 | 郑佳 | [Supervised Fitting of Geometric Primitives to 3D Point Clouds](https://arxiv.org/abs/1811.08988)| CVPR 2019 (oral)  | [Code](https://github.com/csimstu2/SPFN)
