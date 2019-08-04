@@ -4,6 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2019-08-03 | 罗伟鑫 | [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340.pdf)| ECCV 2018 |
 | 2019-07-20 | 金磊 | [Learning to Cluster Faces on an Affinity Graph](https://arxiv.org/abs/1904.02749)| CVPR 2019 |
 | 2019-07-20 | 李晶 | [Locating Objects Without Bounding Boxes](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ribera_Locating_Objects_Without_Bounding_Boxes_CVPR_2019_paper.pdf)[Object Counting and Instance Segmentation With Image-Level Supervision<br>](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cholakkal_Object_Counting_and_Instance_Segmentation_With_Image-Level_Supervision_CVPR_2019_paper.pdf)[Residual Regression With Semantic Prior for Crowd Counting<br>](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_Residual_Regression_With_Semantic_Prior_for_Crowd_Counting_CVPR_2019_paper.pdf)| CVPR 2019 |
 | 2019-07-20 | 余泽浩 | [DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_DeepMapping_Unsupervised_Map_Estimation_From_Multiple_Point_Clouds_CVPR_2019_paper.pdf)| CVPR 2019 |
