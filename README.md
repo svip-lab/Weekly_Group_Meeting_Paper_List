@@ -4,6 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2019-08-10 | 朴智新 | [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://arxiv.org/pdf/1905.01680.pdf) | SIGGRAPH 2019 | [website](https://motionretargeting2d.github.io/)
 | 2019-08-10 | 钱深瀚 | [Learning Loss for Active Learning](https://arxiv.org/pdf/1905.03677.pdf) | CVPR 2019 (Oral) |
 | 2019-08-03 | 刘闻 | [VQ-VAE-2](slides/vq-vae-2.pptx) | original |
 | 2019-08-03 | 罗伟鑫 | [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340.pdf)| ECCV 2018 |
