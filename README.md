@@ -4,6 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2019-08-17 | 李晶 | [ACE: Adapting to Changing Environments for Semantic Segmentation](https://arxiv.org/pdf/1904.06268.pdf) | ICCV 2019 |
 | 2019-08-10 | 许家乐 | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | arXiv 2019 | [code](https://github.com/taki0112/UGATIT)
 | 2019-08-10 | 朴智新 | [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://arxiv.org/pdf/1905.01680.pdf) | SIGGRAPH 2019 | [website](https://motionretargeting2d.github.io/)
 | 2019-08-10 | 钱深瀚 | [Learning Loss for Active Learning](https://arxiv.org/pdf/1905.03677.pdf) | CVPR 2019 (Oral) |
