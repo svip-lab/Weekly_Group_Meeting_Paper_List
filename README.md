@@ -4,6 +4,7 @@
 
 |    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
 | :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
+| 2019-09-21 | 李晶 | [Temporal Shift Module for Efficient Video Understanding](http://xxx.itp.ac.cn/abs/1811.08383) | ICCV 2019 |
 | 2019-09-14 | 朴智新 | [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf) | ICCV 2019 | [website](https://shunsukesaito.github.io/PIFu/)
 | 2019-09-14 | 钱深瀚 | [CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark](https://arxiv.org/pdf/1812.00324.pdf) | CVPR 2019 | [Code](https://github.com/Jeff-sjtu/CrowdPose)
 | 2019-08-17 | 李晶 | [ACE: Adapting to Changing Environments for Semantic Segmentation](https://arxiv.org/pdf/1904.06268.pdf) | ICCV 2019 |
