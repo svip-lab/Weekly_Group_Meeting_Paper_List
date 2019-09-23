@@ -2,14 +2,15 @@
 
 组会顺序: 1:钱深瀚 许家乐 朴智新 2:李晶 肖宇廷 胡俊豪 3:金磊 余泽浩 王佩瑶 5:廉东泽 刘闻 罗伟鑫 
 
-|    Date    | Speaker |                            Paper                             |       Publisher        |                        Website / Code                        |
-| :--------: | :-----: | :----------------------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
-| 2019-09-21 | 李晶 | [Temporal Shift Module for Efficient Video Understanding](http://xxx.itp.ac.cn/abs/1811.08383) | ICCV 2019 | [Code](https://github.com/mit-han-lab/temporal-shift-module)
-| 2019-09-14 | 朴智新 | [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf) | ICCV 2019 | [website](https://shunsukesaito.github.io/PIFu/)
-| 2019-09-14 | 钱深瀚 | [CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark](https://arxiv.org/pdf/1812.00324.pdf) | CVPR 2019 | [Code](https://github.com/Jeff-sjtu/CrowdPose)
+| Date | Speaker | Paper | Publisher | Website / Code |
+| ---- | ------- | ----- | --------- | -------------- |
+| 2019-09-21 | 许家乐 | [Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion](http://xxx.itp.ac.cn/abs/1908.00382) | ICCV 2019 Oral |
+| 2019-09-21 | 李晶 | [Temporal Shift Module for Efficient Video Understanding](http://xxx.itp.ac.cn/abs/1811.08383) | ICCV 2019 | [Code](https://github.com/mit-han-lab/temporal-shift-module) |
+| 2019-09-14 | 朴智新 | [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf) | ICCV 2019 | [website](https://shunsukesaito.github.io/PIFu/) |
+| 2019-09-14 | 钱深瀚 | [CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark](https://arxiv.org/pdf/1812.00324.pdf) | CVPR 2019 | [Code](https://github.com/Jeff-sjtu/CrowdPose) |
 | 2019-08-17 | 李晶 | [ACE: Adapting to Changing Environments for Semantic Segmentation](https://arxiv.org/pdf/1904.06268.pdf) | ICCV 2019 |
-| 2019-08-10 | 许家乐 | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | arXiv 2019 | [code](https://github.com/taki0112/UGATIT)
-| 2019-08-10 | 朴智新 | [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://arxiv.org/pdf/1905.01680.pdf) | SIGGRAPH 2019 | [website](https://motionretargeting2d.github.io/)
+| 2019-08-10 | 许家乐 | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | arXiv 2019 | [code](https://github.com/taki0112/UGATIT) |
+| 2019-08-10 | 朴智新 | [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://arxiv.org/pdf/1905.01680.pdf) | SIGGRAPH 2019 | [website](https://motionretargeting2d.github.io/) |
 | 2019-08-10 | 钱深瀚 | [Learning Loss for Active Learning](https://arxiv.org/pdf/1905.03677.pdf) | CVPR 2019 (Oral) |
 | 2019-08-03 | 刘闻 | [VQ-VAE-2](slides/vq-vae-2.pptx) | original |
 | 2019-08-03 | 罗伟鑫 | [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340.pdf)| ECCV 2018 |
@@ -17,7 +18,7 @@
 | 2019-07-20 | 李晶 | [Locating Objects Without Bounding Boxes](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ribera_Locating_Objects_Without_Bounding_Boxes_CVPR_2019_paper.pdf)[Object Counting and Instance Segmentation With Image-Level Supervision<br>](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cholakkal_Object_Counting_and_Instance_Segmentation_With_Image-Level_Supervision_CVPR_2019_paper.pdf)[Residual Regression With Semantic Prior for Crowd Counting<br>](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_Residual_Regression_With_Semantic_Prior_for_Crowd_Counting_CVPR_2019_paper.pdf)| CVPR 2019 |
 | 2019-07-20 | 余泽浩 | [DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_DeepMapping_Unsupervised_Map_Estimation_From_Multiple_Point_Clouds_CVPR_2019_paper.pdf)| CVPR 2019 |
 | 2019-07-06 | 罗伟鑫 | [Semantic Component Decomposition for Face Attribute Manipulation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Semantic_Component_Decomposition_for_Face_Attribute_Manipulation_CVPR_2019_paper.pdf)| CVPR 2019 |
-| 2019-06-08 | 郑佳 | [Supervised Fitting of Geometric Primitives to 3D Point Clouds](https://arxiv.org/abs/1811.08988)| CVPR 2019 (oral)  | [Code](https://github.com/csimstu2/SPFN)
+| 2019-06-08 | 郑佳 | [Supervised Fitting of Geometric Primitives to 3D Point Clouds](https://arxiv.org/abs/1811.08988)| CVPR 2019 (oral)  | [Code](https://github.com/csimstu2/SPFN) |
 | 2019-06-01 | 罗伟鑫 | TODO | ICCV 2019 Submission|  |
 | 2019-06-01 | 金磊 | [RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741) | CVPR 2019 |  |
 | 2019-06-01 | 余泽浩 | [Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency](https://arxiv.org/pdf/1905.02706v1.pdf) | Arxiv |  |
@@ -30,8 +31,8 @@
 | 2019-03-13 | 尹兆远 | [SeedNet: Automatic Seed Generation with Deep Reinforcement Learning for Robust Interactive Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/html/Song_SeedNet_Automatic_Seed_CVPR_2018_paper.html) | CVPR 2018 |   |
 | 2019-03-13 | 余泽浩   | [Stereo Magnification: Learning view synthesis using multiplane images](http://people.eecs.berkeley.edu/~tinghuiz/papers/siggraph18_mpi.pdf) |       SigGraph 2018        |  [website](https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/)  |
 | 2019-02-20 | 郑佳  | [Geometry-aware Deep Network for Single-Image Novel View Synthesis](https://xmhe.bitbucket.io/papers/viewSynthesis.pdf) |       CVPR 2018        |  |
-| 2019-01-23 | 胡莉娜  | [CNN Visualization](slides/CNN_Visualization.pdf)  |        Original        | 
-| 2019-01-19 | 胡莉娜  | [DeformableV2](slides/DeformableV2.pdf)  |        Original        |      
+| 2019-01-23 | 胡莉娜  | [CNN Visualization](slides/CNN_Visualization.pdf)  |        Original        |
+| 2019-01-19 | 胡莉娜  | [DeformableV2](slides/DeformableV2.pdf)  |        Original        |
 | 2019-01-09 | 郑佳  | [FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans](https://arxiv.org/pdf/1804.00090.pdf) |       ECCV 2018        | [website](http://art-programmer.github.io/floornet.html)   |
 | 2019-01-09 | 郑佳  | [Raster-to-Vector: Revisiting Floorplan Transformation](http://art-programmer.github.io/floorplan-transformation/paper.pdf) |       ICCV 2017        | [website](http://art-programmer.github.io/floorplan-transformation.html)   |
 | 2019-01-09 | 余泽浩  | [MVSNet: Depth Inference for Unstructured Multi-view Stereo](https://arxiv.org/pdf/1804.02505.pdf) |       ECCV 2018        |    |
