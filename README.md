@@ -4,6 +4,7 @@
 
 | Date | Speaker | Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2019-10-07 | 罗伟鑫 | [Disentangling Monocular 3D Object Detection](https://arxiv.org/abs/1905.12365) | ICCV 2019 |
 | 2019-09-21 | 许家乐 | [Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion](http://xxx.itp.ac.cn/abs/1908.00382) | ICCV 2019 Oral |
 | 2019-09-21 | 肖宇廷 | [OCGAN: One-class Novelty Detection Using GANs with Constrained Latent](https://arxiv.org/abs/1903.08550) | CVPR 2019 | [Code](https://github.com/PramuPerera/OCGAN) |
 | 2019-09-21 | 李晶 | [Temporal Shift Module for Efficient Video Understanding](http://xxx.itp.ac.cn/abs/1811.08383) | ICCV 2019 | [Code](https://github.com/mit-han-lab/temporal-shift-module) |
