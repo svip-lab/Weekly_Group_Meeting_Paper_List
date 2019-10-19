@@ -4,7 +4,7 @@
 
 | Date | Speaker | Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
-| 2019-10-19 | 李晶 | [PolarMask: Single Shot Instance Segmentation with Polar Representation](https://arxiv.org/abs/1909.13226)[Explicit Shape Encoding for Real-Time Instance Segmentation<br>](https://arxiv.org/abs/1908.04067)| arxiv |
+| 2019-10-19 | 李晶 | [PolarMask: Single Shot Instance Segmentation with Polar Representation<br>](https://arxiv.org/abs/1909.13226)[Explicit Shape Encoding for Real-Time Instance Segmentation<br>](https://arxiv.org/abs/1908.04067)| arxiv |
 | 2019-10-12 | 钱深瀚 | [Single-Stage Multi-Person Pose Machines](https://arxiv.org/pdf/1908.09220.pdf) | ICCV 2019 |
 | 2019-10-12 | 朴智新 | [Convolutional Sequence Generation for Skeleton-Based Action Synthesis](http://dahualin.org/publications/dhl19_csgn.pdf) | ICCV 2019 |
 | 2019-10-07 | 罗伟鑫 | [Disentangling Monocular 3D Object Detection](https://arxiv.org/abs/1905.12365) | ICCV 2019 |
