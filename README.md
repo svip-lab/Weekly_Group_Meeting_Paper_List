@@ -4,6 +4,7 @@
 
 | Date | Speaker | Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2020-01-11 | 李晶 | [PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193) | arxiv |
 | 2019-12-14 | 李晶 | [Fully Convolutional Instance-aware Semantic Segmentation<br>](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Fully_Convolutional_Instance-Aware_CVPR_2017_paper.pdf)[YOLACT Real-time Instance Segmentation<br>](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.pdf)[RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation<br>](https://arxiv.org/abs/1912.05070)[SOLO: Segmenting Objects by Locations](https://arxiv.org/abs/1912.04488v2)| CVPR 2017<br> ICCV 2019<br> AAAI 2020<br><br> arxiv|
 | 2019-10-19 | 李晶 | [PolarMask: Single Shot Instance Segmentation with Polar Representation<br>](https://arxiv.org/abs/1909.13226)[Explicit Shape Encoding for Real-Time Instance Segmentation<br>](https://arxiv.org/abs/1908.04067)| arxiv |
 | 2019-10-12 | 钱深瀚 | [Single-Stage Multi-Person Pose Machines](https://arxiv.org/pdf/1908.09220.pdf) | ICCV 2019 |
@@ -11,10 +12,10 @@
 | 2019-10-07 | 罗伟鑫 | [Disentangling Monocular 3D Object Detection](https://arxiv.org/abs/1905.12365) | ICCV 2019 |
 | 2019-09-21 | 许家乐 | [Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion](http://xxx.itp.ac.cn/abs/1908.00382) | ICCV 2019 Oral |
 | 2019-09-21 | 肖宇廷 | [OCGAN: One-class Novelty Detection Using GANs with Constrained Latent](https://arxiv.org/abs/1903.08550) | CVPR 2019 | [Code](https://github.com/PramuPerera/OCGAN) |
-| 2019-09-21 | 李晶 | [Temporal Shift Module for Efficient Video Understanding](http://xxx.itp.ac.cn/abs/1811.08383) | ICCV 2019 | [Code](https://github.com/mit-han-lab/temporal-shift-module) |
+| 2019-09-21 | 李晶 | [Temporal Shift Module for Efficient Video Understanding](http://arxiv.org/abs/1811.08383) | ICCV 2019 | [Code](https://github.com/mit-han-lab/temporal-shift-module) |
 | 2019-09-14 | 朴智新 | [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf) | ICCV 2019 | [website](https://shunsukesaito.github.io/PIFu/) |
 | 2019-09-14 | 钱深瀚 | [CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark](https://arxiv.org/pdf/1812.00324.pdf) | CVPR 2019 | [Code](https://github.com/Jeff-sjtu/CrowdPose) |
-| 2019-08-17 | 李晶 | [ACE: Adapting to Changing Environments for Semantic Segmentation](https://arxiv.org/pdf/1904.06268.pdf) | ICCV 2019 |
+| 2019-08-17 | 李晶 | [ACE: Adapting to Changing Environments for Semantic Segmentation](https://arxiv.org/abs/1904.06268) | ICCV 2019 |
 | 2019-08-10 | 许家乐 | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | arXiv 2019 | [code](https://github.com/taki0112/UGATIT) |
 | 2019-08-10 | 朴智新 | [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://arxiv.org/pdf/1905.01680.pdf) | SIGGRAPH 2019 | [website](https://motionretargeting2d.github.io/) |
 | 2019-08-10 | 钱深瀚 | [Learning Loss for Active Learning](https://arxiv.org/pdf/1905.03677.pdf) | CVPR 2019 (Oral) |
