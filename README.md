@@ -5,3 +5,4 @@
 | Date | Speaker | Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
 | 2020-01-11 | 李晶 | [PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193) | arxiv |
+| 2020-02-21 | 罗伟鑫 | [Pseudo Loss](https://github.com/svip-lab/Weekly_Group_Meeting_Paper_List/blob/master/slides/2020.2.21%20luo.pptx) | Original | N/A |
