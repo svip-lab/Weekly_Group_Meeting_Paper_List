@@ -6,3 +6,4 @@
 | ---- | ------- | ----- | --------- | -------------- |
 | 2020-01-11 | 李晶 | [PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193) | arxiv |
 | 2020-02-21 | 罗伟鑫 | [Pseudo Loss in Videos](https://github.com/svip-lab/Weekly_Group_Meeting_Paper_List/blob/master/slides/2020.2.21%20luo.pptx) | Original | N/A |
+| 2020-02-28 | 徐衍钰 | [MultiModel Embeddings](https://github.com/svip-lab/Weekly_Group_Meeting_Paper_List/blob/master/slides/Multimodal_embeddings_YanyuXU_2020_02_28.pptx) | Original | N/A |
