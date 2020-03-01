@@ -4,8 +4,8 @@
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
-| 2020-01-11 | 李晶 | [PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193) | arxiv |
-| 2020-02-21 | 罗伟鑫 | [Pseudo Loss in Videos](https://github.com/svip-lab/Weekly_Group_Meeting_Paper_List/blob/master/slides/2020.2.21%20luo.pptx) | Original | N/A |
 | 2020-02-28 | 徐衍钰 | [MultiModel Embeddings](https://github.com/svip-lab/Weekly_Group_Meeting_Paper_List/blob/master/slides/Multimodal_embeddings_YanyuXU_2020_02_28.pptx) | Original | N/A |
 | 2020-02-28 | 廉东泽 | [Deep Snake for Real-Time Instance Segmentation](https://arxiv.org/abs/2001.01629) | CVPR2020 | https://github.com/zju3dv/snake/ |
 | 2020-02-28 | 章浩 | [Improved Conditional VRNNs for Video Prediction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf) | ICCV2019 | N/A |
+| 2020-02-21 | 罗伟鑫 | [Pseudo Loss in Videos](https://github.com/svip-lab/Weekly_Group_Meeting_Paper_List/blob/master/slides/2020.2.21%20luo.pptx) | Original | N/A |
+| 2020-01-11 | 李晶 | [PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193) | arxiv |
