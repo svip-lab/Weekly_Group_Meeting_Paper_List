@@ -1,9 +1,11 @@
 # Weekly Group Meeting Paper List (2020)
 
-组会顺序: 组1：余泽浩 金磊 许家乐；组2：刘闻 朴智新 罗伟鑫 ；组3：徐衍钰 廉东泽 赵子伯 章浩；组4：肖宇廷 周康  柴振杰，胡俊豪；组5：钱深瀚，陈夏宁，王佩瑶  李晶
+组会顺序: 组1：余泽浩 金磊 许家乐；组2：刘闻 朴智新 罗伟鑫 ；组3：徐衍钰 廉东泽 赵子伯 章浩；组4：肖宇廷 周康  柴振杰，胡俊豪；组5：钱深瀚 陈夏宁 王佩瑶 李晶
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2020-03-13 | 钱深瀚 | [Distribution-Aware Coordinate Representation for Human Pose Estimation
+](https://arxiv.org/abs/1910.06278) | CVPR2020 | https://github.com/ilovepose/DarkPose |
 | 2020-02-28 | 徐衍钰 | [MultiModel Embeddings](https://github.com/svip-lab/Weekly_Group_Meeting_Paper_List/blob/master/slides/Multimodal_embeddings_YanyuXU_2020_02_28.pptx) | Original | N/A |
 | 2020-02-28 | 廉东泽 | [Deep Snake for Real-Time Instance Segmentation](https://arxiv.org/abs/2001.01629) | CVPR2020 | https://github.com/zju3dv/snake/ |
 | 2020-02-28 | 章浩 | [Improved Conditional VRNNs for Video Prediction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf) | ICCV2019 | N/A |
