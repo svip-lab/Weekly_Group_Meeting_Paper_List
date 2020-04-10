@@ -4,6 +4,7 @@
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2020-04-10 | 廉东泽 | [Designing Network Design Spaces](https://arxiv.org/pdf/2003.13678.pdf) | CVPR2020 | https://github.com/facebookresearch/pycls |
 | 2020-04-03 | 罗伟鑫 | [Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge](https://arxiv.org/pdf/2004.00176.pdf) | CVPR2020 | N/A |
 | 2020-03-13 | 李晶 | [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhu_An_Empirical_Study_of_Spatial_Attention_Mechanisms_in_Deep_Networks_ICCV_2019_paper.html) | ICCV2019 | https://github.com/open-mmlab/mmdetection/blob/1b5c991f771f37d24f63f3e5b45123167014102a/configs/empirical_attention/README.md |
 | 2020-03-13 | 钱深瀚 | [Distribution-Aware Coordinate Representation for Human Pose Estimation](https://arxiv.org/abs/1910.06278) | CVPR2020 | https://github.com/ilovepose/DarkPose |
