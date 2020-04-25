@@ -4,6 +4,7 @@
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2020-02-28 | 章浩 | [DDPAE_NerualPS2018](https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf) [CVP_ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf) | NerualPS2018/ICCV2019 | [DDPAE_code](https://github.com/jthsieh/DDPAE-video-prediction) [CVP_code](https://github.com/JudyYe/CVP) |
 | 2020-04-10 | 廉东泽 | [Designing Network Design Spaces](https://arxiv.org/pdf/2003.13678.pdf) | CVPR2020 | [code](https://github.com/facebookresearch/pycls) |
 | 2020-04-03 | 罗伟鑫 | [Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge](https://arxiv.org/pdf/2004.00176.pdf) | CVPR2020 | N/A |
 | 2020-03-13 | 李晶 | [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhu_An_Empirical_Study_of_Spatial_Attention_Mechanisms_in_Deep_Networks_ICCV_2019_paper.html) | ICCV2019 | [code](https://github.com/open-mmlab/mmdetection/blob/1b5c991f771f37d24f63f3e5b45123167014102a/configs/empirical_attention/README.md) |
@@ -15,3 +16,4 @@
 | 2020-02-21 | 朴智新 | [few shot video to video synthesis](https://arxiv.org/abs/1910.12713) | NIPS 2019 | [code](https://github.com/NVlabs/few-shot-vid2vid) |
 | 2020-02-21 | 刘闻 | [Deep Compressed Sensing with relationship to Generative Models](slides/dcs_liuwen.pdf) | Original |  |
 | 2020-01-11 | 李晶 | [PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193) | arxiv |
+
