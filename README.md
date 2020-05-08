@@ -4,6 +4,7 @@
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2020-05-08 | 余泽浩 | [How Useful is Self-Supervised Pretraining for Visual Tasks?](https://arxiv.org/pdf/2003.14323.pdf) | CVPR2020 | [Code](https://www.github.com/princeton-vl/selfstudy)|
 | 2020-05-04 | 李晶 | [Multi-scale dense networks for resource efficient image classification<br>](https://arxiv.org/abs/1703.09844)[Improved Techniques for Training Adaptive Deep Networks<br>](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Improved_Techniques_for_Training_Adaptive_Deep_Networks_ICCV_2019_paper.pdf)[Resolution Adaptive Networks for Efficient Inference](https://arxiv.org/abs/2003.07326) | ICLR2018(Oral)<br> ICCV2019<br> CVPR2020|<br>[Code](https://github.com/kalviny/IMTA)<br>[Code](https://github.com/yangle15/RANet-pytorch)|
 | 2020-05-04 | 钱深瀚 | [Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection](https://arxiv.org/abs/1912.02424) | CVPR2020 | [Code](https://github.com/sfzhang15/ATSS)|
 | 2020-04-24 | 章浩 | [DDPAE_NerualPS2018](https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf)   [CVP_ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf) | NerualPS2018 / ICCV2019 | [DDPAE_code](https://github.com/jthsieh/DDPAE-video-prediction)  [CVP_code](https://github.com/JudyYe/CVP) |
