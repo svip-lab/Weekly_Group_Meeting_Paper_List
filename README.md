@@ -6,6 +6,7 @@
 | ---- | ------- | ----- | --------- | -------------- |
 | 2020-07-24 | 金磊 | [Learning Feature Descriptors using Camera Pose Supervision](https://arxiv.org/abs/2004.13324) | ECCV2020 | N/A |
 | 2020-07-17 | 周康 | [Conditional Gaussian Distribution Learning for Open Set Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Conditional_Gaussian_Distribution_Learning_for_Open_Set_Recognition_CVPR_2020_paper.pdf) | CVPR2020 | N/A |
+| 2020-07-17 | 钱深瀚 | [Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Detailed_Human_Shape_Estimation_From_a_Single_Image_by_Hierarchical_CVPR_2019_paper.pdf) | CVPR2019 | [code](https://github.com/zhuhao-nju/hmd) |
 | 2020-07-10 | 李晶 | [Learning to Structure an Image with Few Colors](https://arxiv.org/abs/2003.07848) | CVPR2020 | N/A |
 | 2020-06-26 | 涂治 | [Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://arxiv.org/abs/2003.12267) | CVPR2020 | [Code](https://github.com/menyifang/ADGAN) |
 | 2020-05-08 | 余泽浩 | [How Useful is Self-Supervised Pretraining for Visual Tasks?](https://arxiv.org/pdf/2003.14323.pdf) | CVPR2020 | [Code](https://www.github.com/princeton-vl/selfstudy)|
