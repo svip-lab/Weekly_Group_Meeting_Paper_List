@@ -4,6 +4,7 @@
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2020-08-07 | 朴智新 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934.pdf) | ECCV2020 | [code](https://github.com/bmild/nerf) |
 | 2020-07-24 | 金磊 | [Learning Feature Descriptors using Camera Pose Supervision](https://arxiv.org/abs/2004.13324) | ECCV2020 | N/A |
 | 2020-07-17 | 周康 | [Conditional Gaussian Distribution Learning for Open Set Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Conditional_Gaussian_Distribution_Learning_for_Open_Set_Recognition_CVPR_2020_paper.pdf) | CVPR2020 | N/A |
 | 2020-07-17 | 钱深瀚 | [Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Detailed_Human_Shape_Estimation_From_a_Single_Image_by_Hierarchical_CVPR_2019_paper.pdf) | CVPR2019 | [code](https://github.com/zhuhao-nju/hmd) |
