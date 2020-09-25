@@ -4,7 +4,7 @@
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
-| 2020-09-25 | 刘闻 | [DeepCap]()
+| 2020-09-25 | 刘闻 | [DeepCap](./slides/deepcap.pptx) | CVPR 2020 |
 | 2020-08-28 | 钱深瀚 | [Learning to Dress 3D People in Generative Clothing](https://openaccess.thecvf.com/content_CVPR_2020/html/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.html) | CVPR2020 |
 | 2020-08-07 | 朴智新 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934.pdf) | ECCV2020 | [code](https://github.com/bmild/nerf) |
 | 2020-07-24 | 金磊 | [Learning Feature Descriptors using Camera Pose Supervision](https://arxiv.org/abs/2004.13324) | ECCV2020 | N/A |
