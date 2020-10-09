@@ -5,7 +5,7 @@
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
 | 2020-10-09 | 廉东泽 | [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf) | ECCV2020 (Spotlight) | [code](https://github.com/facebookresearch/unnas) |
-| 2020-10-09 | 赵子伯 | [Image Inpainting In CVPR2020&ECCV2020](./slides/201009_groupmeeting.pptx) | CVPR2020&ECCV2020 | N/A |
+| 2020-10-09 | 赵子伯 | [Image Inpainting In CVPR2020&ECCV2020](./slides/201009groupmeeting.pptx) | CVPR2020&ECCV2020 | N/A |
 | 2020-09-25 | 刘闻 | [DeepCap](./slides/deepcap.pptx) | CVPR 2020 |
 | 2020-08-28 | 钱深瀚 | [Learning to Dress 3D People in Generative Clothing](https://openaccess.thecvf.com/content_CVPR_2020/html/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.html) | CVPR2020 |
 | 2020-08-07 | 朴智新 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934.pdf) | ECCV2020 | [code](https://github.com/bmild/nerf) |
