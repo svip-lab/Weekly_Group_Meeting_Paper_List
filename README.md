@@ -4,6 +4,7 @@
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2020-10-16 | 周康 | [Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460137.pdf) | ECCV2020 | N/A |
 | 2020-10-09 | 廉东泽 | [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf) | ECCV2020 (Spotlight) | [code](https://github.com/facebookresearch/unnas) |
 | 2020-10-09 | 赵子伯 | [Image Inpainting In CVPR2020&ECCV2020](./slides/201009groupmeeting.pptx) | CVPR2020&ECCV2020 | N/A |
 | 2020-09-25 | 刘闻 | [DeepCap](./slides/deepcap.pptx) | CVPR 2020 |
