@@ -5,6 +5,7 @@
 | 2019-10-12 | 钱深瀚 | [Single-Stage Multi-Person Pose Machines](https://arxiv.org/pdf/1908.09220.pdf) | ICCV 2019 |
 | 2019-10-12 | 朴智新 | [Convolutional Sequence Generation for Skeleton-Based Action Synthesis](http://dahualin.org/publications/dhl19_csgn.pdf) | ICCV 2019 |
 | 2019-10-07 | 罗伟鑫 | [Disentangling Monocular 3D Object Detection](https://arxiv.org/abs/1905.12365) | ICCV 2019 |
+| 2019-07-06 | 刘闻   | [Sing Image Processing by Generative Models](./slides/singleImageGenerativeModels.pptx) | original |
 | 2019-09-21 | 许家乐 | [Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion](http://xxx.itp.ac.cn/abs/1908.00382) | ICCV 2019 Oral |
 | 2019-09-21 | 肖宇廷 | [OCGAN: One-class Novelty Detection Using GANs with Constrained Latent](https://arxiv.org/abs/1903.08550) | CVPR 2019 | [Code](https://github.com/PramuPerera/OCGAN) |
 | 2019-09-21 | 李晶 | [Temporal Shift Module for Efficient Video Understanding](http://arxiv.org/abs/1811.08383) | ICCV 2019 | [Code](https://github.com/mit-han-lab/temporal-shift-module) |
@@ -19,6 +20,7 @@
 | 2019-07-20 | 金磊 | [Learning to Cluster Faces on an Affinity Graph](https://arxiv.org/abs/1904.02749)| CVPR 2019 |
 | 2019-07-20 | 李晶 | [Locating Objects Without Bounding Boxes](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ribera_Locating_Objects_Without_Bounding_Boxes_CVPR_2019_paper.pdf)[Object Counting and Instance Segmentation With Image-Level Supervision<br>](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cholakkal_Object_Counting_and_Instance_Segmentation_With_Image-Level_Supervision_CVPR_2019_paper.pdf)[Residual Regression With Semantic Prior for Crowd Counting<br>](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_Residual_Regression_With_Semantic_Prior_for_Crowd_Counting_CVPR_2019_paper.pdf)| CVPR 2019 |
 | 2019-07-20 | 余泽浩 | [DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_DeepMapping_Unsupervised_Map_Estimation_From_Multiple_Point_Clouds_CVPR_2019_paper.pdf)| CVPR 2019 |
+| 2019-07-06 | 刘闻   | [Temporal Cycle-Consistency Learning, CVPR 2019](https://arxiv.org/pdf/1904.07846.pdf) | [slide](./slides/TCC.pptx) |
 | 2019-07-06 | 罗伟鑫 | [Semantic Component Decomposition for Face Attribute Manipulation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Semantic_Component_Decomposition_for_Face_Attribute_Manipulation_CVPR_2019_paper.pdf)| CVPR 2019 |
 | 2019-06-08 | 郑佳 | [Supervised Fitting of Geometric Primitives to 3D Point Clouds](https://arxiv.org/abs/1811.08988)| CVPR 2019 (oral)  | [Code](https://github.com/csimstu2/SPFN) |
 | 2019-06-01 | 罗伟鑫 | TODO | ICCV 2019 Submission|  |
