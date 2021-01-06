@@ -8,6 +8,7 @@ paper reading每周五下午两点半开始。
 | 2020-12-18 | 廉东泽 | [Nerf++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/pdf/2010.07492.pdf) | arXiv | [code](https://github.com/Kai-46/nerfplusplus) |
 | 2020-12-11 | 涂治 | [Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://arxiv.org/pdf/2012.03065.pdf) | arXiv | [Project Homepage](https://gafniguy.github.io/4D-Facial-Avatars/) |
 | 2020-12-11 | 刘闻 | [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://arxiv.org/abs/2012.00926.pdf) | arXiv | [Project Homepage](https://marcoamonteiro.github.io/pi-GAN-website/) |
+| 2020-10-31 | 李晶 | [Test-time training with self-supervision for generalization under distribution shifts](http://proceedings.mlr.press/v119/sun20b/sun20b.pdf) | ICML2020 | [code](https://yueatsprograms.github.io/ttt/home.html) |
 | 2020-10-16 | 周康 | [Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460137.pdf) | ECCV2020 | N/A |
 | 2020-10-09 | 廉东泽 | [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf) | ECCV2020 (Spotlight) | [code](https://github.com/facebookresearch/unnas) |
 | 2020-10-09 | 赵子伯 | [Image Inpainting In CVPR2020&ECCV2020](./slides/201009groupmeeting.pptx) | CVPR2020&ECCV2020 | N/A |
