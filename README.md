@@ -4,6 +4,7 @@ paper reading每周五下午两点半开始。
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2021-01-01 | 钱深瀚 | [A Morphable Model For The Synthesis Of 3D Faces](https://www.face-rec.org/algorithms/3d_morph/morphmod2.pdf) | SIGGRAPH '99 | N/A |
 | 2020-12-25 | 李晶 | [DO 2D GANS KNOW 3D SHAPE? UNSUPERVISED 3DSHAPE RECONSTRUCTION FROM 2D IMAGE GANS](https://arxiv.org/pdf/2011.00844.pdf) | arXiv | N/A |
 | 2020-12-18 | 廉东泽 | [Nerf++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/pdf/2010.07492.pdf) | arXiv | [code](https://github.com/Kai-46/nerfplusplus) |
 | 2020-12-11 | 涂治 | [Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://arxiv.org/pdf/2012.03065.pdf) | arXiv | [Project Homepage](https://gafniguy.github.io/4D-Facial-Avatars/) |
