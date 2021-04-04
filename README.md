@@ -4,6 +4,7 @@ paper reading每周五下午两点半开始。
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
+| 2021-03-28 | 钱深瀚 | [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411) | CVPR 2021 | [Code](https://github.com/FangjinhuaWang/PatchmatchNet) |
 | 2021-03-21 | 李晶 | [DataMix: Efficient Privacy-Preserving Edge-Cloud Inference](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560562.pdf) | ECCV2020 | N/A |
 | 2021-01-01 | 钱深瀚 | [A Morphable Model For The Synthesis Of 3D Faces](https://www.face-rec.org/algorithms/3d_morph/morphmod2.pdf) | SIGGRAPH '99 | N/A |
 | 2020-12-25 | 李晶 | [DO 2D GANS KNOW 3D SHAPE? UNSUPERVISED 3DSHAPE RECONSTRUCTION FROM 2D IMAGE GANS](https://arxiv.org/pdf/2011.00844.pdf) | arXiv | N/A |
