@@ -4,7 +4,7 @@ paper reading每周五下午两点半开始。
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
-| 2021-04-11 | 钱一成 | [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095.pdf) | arXiv | N/A |
+| 2021-04-11 | 钱一成 | [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095.pdf) | arXiv | [Code](https://github.com/lucidrains/TimeSformer-pytorch) |
 | 2021-03-28 | 钱深瀚 | [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411) | CVPR 2021 | [Code](https://github.com/FangjinhuaWang/PatchmatchNet) |
 | 2021-03-21 | 李晶 | [DataMix: Efficient Privacy-Preserving Edge-Cloud Inference](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560562.pdf) | ECCV2020 | [Code](https://github.com/DingXiaoH/RepVGG) |
 | 2021-01-15 | 许家乐 | [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/pdf/2101.03697.pdf) | CVPR2021 | [Code](https://github.com/DingXiaoH/RepVGG) |
