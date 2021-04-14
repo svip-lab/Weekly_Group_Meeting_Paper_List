@@ -3,7 +3,7 @@ paper reading每周五下午两点半开始。
 组会顺序: 金磊 许家乐 钱一成 ；组2：刘闻  涂治 朴智新；组3：廉东泽 赵子伯 智轶浩 黄彬彬；组4：肖宇廷 周康  李晶 钟子明；组5：钱深瀚，陈夏宁，王佩瑶
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
-| ---- | ------- | ----- | --------- | -------------- |
+| :--: | :-----: | :----------: | :-------: | :------------: |
 | 2021-04-11 | 许家乐 | [Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126) | CVPR 2020 | [Code](https://github.com/google/ldif) |
 | 2021-04-11 | 钱一成 | [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095.pdf) | arXiv | [Code](https://github.com/lucidrains/TimeSformer-pytorch) |
 | 2021-03-28 | 钱深瀚 | [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411) | CVPR 2021 | [Code](https://github.com/FangjinhuaWang/PatchmatchNet) |
