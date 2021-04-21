@@ -4,6 +4,7 @@ paper reading每周五下午两点半开始。
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | :--: | :-----: | :----------: | :-------: | :------------: |
+| 2021-04-19 | 胡俊豪 | [BoxInst: High-Performance Instance Segmentation with Box Annotations](https://arxiv.org/abs/2012.02310) | arXiv | [Code](https://github.com/aim-uofa/AdelaiDet) |
 | 2021-04-19 | 黄彬彬 | [End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/pdf/2011.14503.pdf) | arXiv | [Code](https://github.com/Epiphqny/VisTR) |
 | 2021-04-11 | 许家乐 | [Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126) | CVPR2020 (oral) | [Code](https://github.com/google/ldif) |
 | 2021-04-11 | 钱一成 | [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095.pdf) | arXiv | [Code](https://github.com/lucidrains/TimeSformer-pytorch) |
