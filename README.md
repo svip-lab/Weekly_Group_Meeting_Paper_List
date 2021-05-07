@@ -1,6 +1,7 @@
-# Weekly Group Meeting Paper List (2020)
-paper reading每周五下午两点半开始。   
-组会顺序: 金磊 许家乐 钱一成 ；组2：刘闻  涂治 黄彬彬 胡俊豪；组3：廉东泽 赵子伯 智轶浩；组4：肖宇廷 周康  李晶 钟子明；组5：钱深瀚，陈夏宁
+# Weekly Group Meeting Paper List (2021)
+paper reading每周五下午两点半开始。
+
+组1：许家乐，钱一成；组2：刘闻，涂治，黄彬彬，胡俊豪；组3：廉东泽，赵子伯，智轶浩；组4：肖宇廷，周康，李晶，钟子明；组5：钱深瀚，陈夏宁
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | :--: | :-----: | :----------: | :-------: | :------------: |
