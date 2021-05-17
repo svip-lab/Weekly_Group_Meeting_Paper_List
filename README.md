@@ -1,10 +1,15 @@
 # Weekly Group Meeting Paper List (2021)
-paper reading每周五下午两点半开始。
+paper reading每周日下午两点开始。
 
-组1：许家乐，钱一成；组2：刘闻，涂治，黄彬彬，胡俊豪；组3：廉东泽，赵子伯，智轶浩；组4：肖宇廷，周康，李晶，钟子明；组5：钱深瀚，陈夏宁
+组1：许家乐，钱一成；<br>
+组2：刘闻，涂治，黄彬彬，胡俊豪；<br>
+组3：廉东泽，赵子伯，智轶浩；<br>
+组4：肖宇廷，周康，李晶，钟子明；<br>
+组5：钱深瀚，陈夏宁
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | :--: | :-----: | :----------: | :-------: | :------------: |
+| 2021-03-28 | 钱深瀚 | [HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences](https://arxiv.org/abs/2103.15573) | arXiv | |
 | 2021-04-25 | 廉东泽 | [ViT](https://arxiv.org/pdf/2010.11929.pdf)/[DeiT](https://arxiv.org/pdf/2012.12877.pdf)/[DeepViT](https://arxiv.org/pdf/2103.11886.pdf)/[Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) | ICLR2021/Arxiv/CVPR2021/Arxiv | [ViT-Pytorch](https://github.com/lucidrains/vit-pytorch)/[Swin Transformer](https://github.com/microsoft/Swin-Transformer) |
 | 2021-04-19 | 胡俊豪 | [BoxInst: High-Performance Instance Segmentation with Box Annotations](https://arxiv.org/abs/2012.02310) | arXiv | [Code](https://github.com/aim-uofa/AdelaiDet) |
 | 2021-04-19 | 黄彬彬 | [End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/pdf/2011.14503.pdf) | arXiv | [Code](https://github.com/Epiphqny/VisTR) |
