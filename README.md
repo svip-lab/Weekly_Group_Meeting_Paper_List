@@ -9,7 +9,7 @@ paper reading每周日下午两点开始。
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | :--: | :-----: | :----------: | :-------: | :------------: |
-| 2021-04-19 | 黄彬彬 | [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://arxiv.org/pdf/2104.10078.pdf) | arXiv | Code |
+| 2021-06-20 | 黄彬彬 | [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://arxiv.org/pdf/2104.10078.pdf) | arXiv | Code |
 | 2021-03-28 | 钱深瀚 | [HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences](https://arxiv.org/abs/2103.15573) | arXiv | |
 | 2021-04-25 | 廉东泽 | [ViT](https://arxiv.org/pdf/2010.11929.pdf)/[DeiT](https://arxiv.org/pdf/2012.12877.pdf)/[DeepViT](https://arxiv.org/pdf/2103.11886.pdf)/[Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) | ICLR2021/Arxiv/CVPR2021/Arxiv | [ViT-Pytorch](https://github.com/lucidrains/vit-pytorch)/[Swin Transformer](https://github.com/microsoft/Swin-Transformer) |
 | 2021-04-19 | 胡俊豪 | [BoxInst: High-Performance Instance Segmentation with Box Annotations](https://arxiv.org/abs/2012.02310) | arXiv | [Code](https://github.com/aim-uofa/AdelaiDet) |
