@@ -9,14 +9,17 @@ paper reading每周日下午两点开始。
 
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | :--: | :-----: | :----------: | :-------: | :------------: |
+| 2021-08-08 | 许家乐 | [Self-Supervised 3D Mesh Reconstruction From Single Images](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Self-Supervised_3D_Mesh_Reconstruction_From_Single_Images_CVPR_2021_paper.html) | CVPR2021 | [Code](https://github.com/dvlab-research/SMR) |
+| 2021-08-08 | 钱一成 | [Unsupervised Learning of Action Classes With Continuous Temporal Embedding](https://openaccess.thecvf.com/content_CVPR_2019/html/Kukleva_Unsupervised_Learning_of_Action_Classes_With_Continuous_Temporal_Embedding_CVPR_2019_paper.html) | CVPR2019 | [Code](https://github.com/Annusha/unsup_temp_embed) |
 | 2021-06-20 | 黄彬彬 | [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://arxiv.org/pdf/2104.10078.pdf) | arXiv | Code |
+| 2021-05-30 | 许家乐 | [3D Reconstruction of Novel Object Shapes from Single Images](https://arxiv.org/abs/2006.07752) | arXiv | [Code](https://github.com/rehg-lab/3DShapeGen) |
 | 2021-03-28 | 钱深瀚 | [HumanGPS: Geodesic PreServing Feature for Dense Human Correspondences](https://arxiv.org/abs/2103.15573) | arXiv | |
 | 2021-04-25 | 廉东泽 | [ViT](https://arxiv.org/pdf/2010.11929.pdf)/[DeiT](https://arxiv.org/pdf/2012.12877.pdf)/[DeepViT](https://arxiv.org/pdf/2103.11886.pdf)/[Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) | ICLR2021/Arxiv/CVPR2021/Arxiv | [ViT-Pytorch](https://github.com/lucidrains/vit-pytorch)/[Swin Transformer](https://github.com/microsoft/Swin-Transformer) |
 | 2021-04-19 | 胡俊豪 | [BoxInst: High-Performance Instance Segmentation with Box Annotations](https://arxiv.org/abs/2012.02310) | arXiv | [Code](https://github.com/aim-uofa/AdelaiDet) |
 | 2021-04-19 | 黄彬彬 | [End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/pdf/2011.14503.pdf) | arXiv | [Code](https://github.com/Epiphqny/VisTR) |
 | 2021-04-11 | 许家乐 | [Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126) | CVPR2020 (oral) | [Code](https://github.com/google/ldif) |
 | 2021-04-11 | 钱一成 | [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095.pdf) | arXiv | [Code](https://github.com/lucidrains/TimeSformer-pytorch) |
-| 2021-03-28 | 钱深瀚 | [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411) | CVPR 2021 | [Code](https://github.com/FangjinhuaWang/PatchmatchNet) |
+| 2021-03-28 | 钱深瀚 | [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411) | CVPR2021 | [Code](https://github.com/FangjinhuaWang/PatchmatchNet) |
 | 2021-03-21 | 李晶 | [DataMix: Efficient Privacy-Preserving Edge-Cloud Inference](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560562.pdf) | ECCV2020 | [Code](https://github.com/DingXiaoH/RepVGG) |
 | 2021-01-15 | 许家乐 | [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/pdf/2101.03697.pdf) | CVPR2021 | [Code](https://github.com/DingXiaoH/RepVGG) |
 | 2021-01-01 | 钱深瀚 | [A Morphable Model For The Synthesis Of 3D Faces](https://www.face-rec.org/algorithms/3d_morph/morphmod2.pdf) | SIGGRAPH '99 | N/A |
